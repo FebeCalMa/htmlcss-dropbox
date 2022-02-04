@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0pv;
+}
+
+body{
+    font-family: sans-serif;
+}
+.container-fixed{
+    position: fixed;
+    
+}
+
+div .opt-left{
+    float: left;
+}
+
+div .opt-right{
+    float: right;
+}
+
+.btn-left{
+    float: right;
+}
+
